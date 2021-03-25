@@ -402,8 +402,8 @@ return 1 is dominated by return 1
 <Fish: void saySomething()> may call <java.lang.System: void <clinit>()>  
 <Fish: void saySomething()> may call <java.io.PrintStream: void println(java.lang.String)>  
 <Fish: void saySomething()> may call <java.lang.Object: void <clinit>()>  
-Total Edges:16 
-Time: 2489ms   
+Total Edges:16  
+Time: 2489ms  
   
 ### PTA Output:  
 <Example: Animal selectAnimal()> may call <Cat: void <init>()>  
